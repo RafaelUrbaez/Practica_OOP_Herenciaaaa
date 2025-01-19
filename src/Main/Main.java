@@ -1,3 +1,9 @@
+package Main;
+import Escuela.Clase;
+import Escuela.Curso;
+import Escuela.Estudiante;
+import Escuela.Profesor;
+
 public class Main {
     public static void main(String[] args) {
         // instancias de Estudiantes
